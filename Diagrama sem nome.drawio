@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T00:20:16.706Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="q38T07zKmibxrJIo6R_C" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T13:42:56.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d-IocdnlKqPhO6oBrhC8" version="22.0.4" type="github">
   <diagram name="Página-1" id="M4AG1U2UbQ92fK8j8NIL">
-    <mxGraphModel dx="821" dy="1945" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1624" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="9rqynmllx5_fteItaD3S-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-75" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="370" width="900" height="360" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="-40" width="680" height="380" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-2" target="9rqynmllx5_fteItaD3S-12">
+        <mxCell id="9rqynmllx5_fteItaD3S-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rqynmllx5_fteItaD3S-2" target="9rqynmllx5_fteItaD3S-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-2" value="Pasta &lt;br&gt;Pitia_BackEnd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-2" value="Pasta &lt;br&gt;Pitia_BackEnd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-4" value="Pasta&lt;br&gt;Pitia_logic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-4" value="Pasta&lt;br&gt;Pitia_logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="448" y="230" as="sourcePoint" />
             <mxPoint x="530" y="230" as="targetPoint" />
@@ -28,315 +28,463 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-8" value="Projeto&amp;nbsp; Pitia BackEnd" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-8" value="Projeto&amp;nbsp; Pitia BackEnd" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="330" y="-10" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-12" value="Pasta &lt;br&gt;Pitia_BackEnd" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-12" value="Pasta &lt;br&gt;Pitia" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-15" value="Pasta&lt;br&gt;Pitia BackEnd" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-15" value="Pasta&lt;br&gt;Pitia BackEnd" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="340" y="400" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-16" value="Arquivo&lt;br&gt;urls.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-16" value="Arquivo&lt;br&gt;urls.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-17" value="&lt;div&gt;&#39;users&#39;, UserViewSet&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&#39;api_overview&#39;, OverviewViewSet&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;api_detail&#39;, DetailedViewSet&lt;/div&gt;&lt;div&gt;api_chart&#39;, ChartViewSet&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;path(&#39;admin/&#39;, admin.site.urls),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;health/&#39;, health),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;readiness/&#39;, health),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;token/&#39;, token, name=&#39;token&#39;),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;refresh/&#39;, refresh_data, name=&#39;refreshData&#39;),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;api_auth/&#39;, SOAPLogin.as_view(), name=&#39;login&#39;,),&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="294" y="488" width="236" height="180" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-17" value="&lt;div&gt;&#39;users&#39;, UserViewSet&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&#39;api_overview&#39;, OverviewViewSet&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;api_detail&#39;, DetailedViewSet&lt;/div&gt;&lt;div&gt;api_chart&#39;, ChartViewSet&lt;/div&gt;&lt;div&gt;&lt;div&gt;&amp;nbsp;path(&#39;admin/&#39;, admin.site.urls),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;health/&#39;, health),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;readiness/&#39;, health),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;token/&#39;, token, name=&#39;token&#39;),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;refresh/&#39;, refresh_data, name=&#39;refreshData&#39;),&lt;/div&gt;&lt;div&gt;&amp;nbsp;path(&#39;api_auth/&#39;, SOAPLogin.as_view(), name=&#39;login&#39;,),&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="294" y="488" width="356" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-16" target="9rqynmllx5_fteItaD3S-17">
+        <mxCell id="9rqynmllx5_fteItaD3S-18" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-16" target="9rqynmllx5_fteItaD3S-17" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="400" as="sourcePoint" />
             <mxPoint x="430" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-20" value="Arquivo&lt;br&gt;settings.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="400" width="120" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-20" value="Arquivo&lt;br&gt;settings.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="750" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-21" value="Frameword Django" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-21" value="Frameword Django" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="110" y="770" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-17">
+        <mxCell id="9rqynmllx5_fteItaD3S-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rqynmllx5_fteItaD3S-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="240" as="sourcePoint" />
             <mxPoint x="412" y="800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="750" width="900" height="720" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="80" y="750" width="990" height="1420" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-24" value="Pasta&lt;br&gt;Pitia&amp;nbsp;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-24" value="Pasta&lt;br&gt;Pitia&amp;nbsp;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="342" y="760" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-25" value="Arquivo&lt;br&gt;Views.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-25" value="Arquivo&lt;br&gt;Views.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="970" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-26" value="SOAPLogin()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-26" value="SOAPLogin()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="340" y="830" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-28" value="&lt;div&gt;2.1.1.1 get_context_data()&lt;/div&gt;&lt;div&gt;2.1.1.1 form_valid() . Faz toda a parte de session do usuário&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.1.1.1 form_invalid()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-28" value="&lt;div&gt;2.1.1.1 get_context_data()&lt;/div&gt;&lt;div&gt;2.1.1.2 form_valid() . Faz toda a parte de session do usuário&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;2.1.1.3 form_invalid()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="480" y="770" width="410" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-25" target="9rqynmllx5_fteItaD3S-26">
+        <mxCell id="9rqynmllx5_fteItaD3S-29" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-25" target="9rqynmllx5_fteItaD3S-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="980" as="sourcePoint" />
             <mxPoint x="250" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-26" target="9rqynmllx5_fteItaD3S-28">
+        <mxCell id="9rqynmllx5_fteItaD3S-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-26" target="9rqynmllx5_fteItaD3S-28" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="210" y="990" as="sourcePoint" />
             <mxPoint x="320" y="930" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-35" target="9rqynmllx5_fteItaD3S-44">
+        <mxCell id="9rqynmllx5_fteItaD3S-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-35" target="9rqynmllx5_fteItaD3S-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="426" y="990" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-35" value="UserViewSet()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-35" value="UserViewSet()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="337" y="900" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9rqynmllx5_fteItaD3S-35" source="9rqynmllx5_fteItaD3S-25">
+        <mxCell id="9rqynmllx5_fteItaD3S-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-25" target="9rqynmllx5_fteItaD3S-35" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1050" as="sourcePoint" />
             <mxPoint x="310" y="990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-40" value="OverViewSet()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-40" value="OverViewSet()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="332" y="970" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-41" value="ChartViewSet(" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-41" value="ChartViewSet(" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="1030" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-44" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-44" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="475" y="840" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-46" value="DetailedViewSet()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-46" value="DetailedViewSet()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
           <mxGeometry x="327" y="1090" width="106" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-47" value="&lt;div&gt;2.3.1.1 get_queryset() - responsalvel por chamar&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;a metodo WellInterface.search_wells()&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;em well_Component.py Pasta 3 - Pitia_logic\Wells&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.3.1.1 list()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;get_queryset()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonInterface.load_best_alternatives(page) ,Pitia_logic\abandon&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellSerializer() serializers.py&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="890" width="480" height="150" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-47" value="&lt;div&gt;2.3.1.1 get_queryset() - responsalvel por chamar&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;a metodo WellInterface.search_wells()&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;em well_Component.py Pasta 3 - Pitia_logic\Wells&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;2.3.1.2 list()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;get_queryset()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonInterface.load_best_alternatives(page) ,Pitia_logic\abandon&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellSerializer() serializers.py&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="480" y="890" width="570" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-49" value="&lt;div&gt;2.4.1.1 get_queryset()&lt;/div&gt;&lt;div&gt;WellInterface().search_wells&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;bandonInterface.load_best_alternatives&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonInterface.load_multiple_scopes_from_results&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;2.4.1.2 list()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;get_queryset()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;data_views.AggregatedView.count_abandon_scopes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;data_views.AggregatedView.bar_chart_data(&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;data_views.AggregatedView.timeline_chart&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;PieChartSerializer(pie_chart_counts).data[&#39;values&#39;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;BarChartSerializer(bar_chart_counts).data[&#39;values&#39;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;TimelineSerializer(timeline_chart, many=True).data&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="1070" width="450" height="200" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-49" value="&lt;div&gt;2.4.1.1 get_queryset()&lt;/div&gt;&lt;div&gt;WellInterface().search_wells&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;bandonInterface.load_best_alternatives&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonInterface.load_multiple_scopes_from_results&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;2.4.1.2 list()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;get_queryset()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;data_views.AggregatedView.count_abandon_scopes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;data_views.AggregatedView.bar_chart_data(&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;data_views.AggregatedView.timeline_chart&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;PieChartSerializer(pie_chart_counts).data[&#39;values&#39;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;BarChartSerializer(bar_chart_counts).data[&#39;values&#39;]&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;TimelineSerializer(timeline_chart, many=True).data&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="1070" width="450" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-50" value="&lt;div&gt;2.5.1.1 retrieve()&lt;/div&gt;&lt;div&gt;WellInterface.get_well()&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;DetailedView.get_all_abandons_results()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;DetailedView.get_abandon_summary()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellSerializer()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonSerializer()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonEvaluationSerializer()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1320" width="490" height="120" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-50" value="&lt;div&gt;2.5.1.1 retrieve()&lt;/div&gt;&lt;div&gt;WellInterface.get_well()&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;DetailedView.get_all_abandons_results()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;DetailedView.get_abandon_summary()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellSerializer()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonSerializer()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;AbandonEvaluationSerializer()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="1320" width="490" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-40" target="9rqynmllx5_fteItaD3S-47">
+        <mxCell id="9rqynmllx5_fteItaD3S-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-40" target="9rqynmllx5_fteItaD3S-47" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="443" y="930" as="sourcePoint" />
             <mxPoint x="490" y="960" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-41" target="9rqynmllx5_fteItaD3S-49">
+        <mxCell id="9rqynmllx5_fteItaD3S-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rqynmllx5_fteItaD3S-41" target="9rqynmllx5_fteItaD3S-49" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="448" y="1000" as="sourcePoint" />
             <mxPoint x="490" y="970" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-46">
+        <mxCell id="9rqynmllx5_fteItaD3S-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.002;entryY=0.396;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9rqynmllx5_fteItaD3S-46" edge="1" target="9rqynmllx5_fteItaD3S-50">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="446" y="1060" as="sourcePoint" />
             <mxPoint x="450" y="1370" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1560" width="870" height="560" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="2190" width="870" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-56" value="Pasta&lt;br&gt;Logic \Wells" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="342" y="1570" width="96" height="50" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-56" value="Pasta&lt;br&gt;Logic \Wells" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="352" y="2200" width="96" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-57" value="Arquivo&lt;br&gt;well_Component.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="1780" width="120" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-57" value="Arquivo&lt;br&gt;well_Component.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="2410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-58" value="class WellBuilder(ABC)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1640" width="190" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-58" value="class WellBuilder(ABC)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2270" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-59" value="&lt;div&gt;def warning_visitor&lt;/div&gt;&lt;div&gt; def get_intervals&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt; def get_equipments&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1580" width="180" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-59" value="&lt;div&gt;def warning_visitor&lt;/div&gt;&lt;div&gt; def get_intervals&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt; def get_equipments&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="2210" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-57" target="9rqynmllx5_fteItaD3S-58">
+        <mxCell id="9rqynmllx5_fteItaD3S-60" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-57" target="9rqynmllx5_fteItaD3S-58" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1790" as="sourcePoint" />
-            <mxPoint x="250" y="1740" as="targetPoint" />
+            <mxPoint x="210" y="2420" as="sourcePoint" />
+            <mxPoint x="260" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-58" target="9rqynmllx5_fteItaD3S-59">
+        <mxCell id="9rqynmllx5_fteItaD3S-61" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-58" target="9rqynmllx5_fteItaD3S-59" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="1800" as="sourcePoint" />
-            <mxPoint x="320" y="1740" as="targetPoint" />
+            <mxPoint x="220" y="2430" as="sourcePoint" />
+            <mxPoint x="330" y="2370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-63" target="9rqynmllx5_fteItaD3S-67">
+        <mxCell id="9rqynmllx5_fteItaD3S-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-63" target="9rqynmllx5_fteItaD3S-67" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="426" y="1800" as="targetPoint" />
+            <mxPoint x="436" y="2430" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-63" value="class ConcreteWellBuilder(WellBuilder)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="1710" width="183" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-63" value="class ConcreteWellBuilder(WellBuilder)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="260" y="2340" width="183" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-57" target="9rqynmllx5_fteItaD3S-63">
+        <mxCell id="9rqynmllx5_fteItaD3S-64" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-57" target="9rqynmllx5_fteItaD3S-63" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1860" as="sourcePoint" />
-            <mxPoint x="310" y="1800" as="targetPoint" />
+            <mxPoint x="210" y="2490" as="sourcePoint" />
+            <mxPoint x="320" y="2430" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-65" value="class Well_PA(ConcreteWellBuilder)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1780" width="198" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-65" value="class Well_PA(ConcreteWellBuilder)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="2410" width="198" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-66" value="class Well_PA_Bulk(ConcreteWellBuilder)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1840" width="196" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-66" value="class Well_PA_Bulk(ConcreteWellBuilder)" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="250" y="2470" width="196" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-67" value="&lt;div&gt;def load_well_properties_data()&lt;/div&gt;&lt;div&gt;WellPropertyInterface() --&amp;gt; properties\ file properties_interface.py&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def load_properties_data --&amp;gt; properties\ file properties_interface.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_intervals()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_equipments()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1650" width="405" height="110" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-67" value="&lt;div&gt;def load_well_properties_data()&lt;/div&gt;&lt;div&gt;WellPropertyInterface() --&amp;gt; properties\ file properties_interface.py&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def load_properties_data --&amp;gt; properties\ file properties_interface.py&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_intervals()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_equipments()&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="2280" width="405" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-68" value="classe WellInterface" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="235" y="1920" width="203" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-68" value="classe WellInterface" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="245" y="2550" width="203" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-69" value="&lt;div&gt;load_well_type(self)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;ordering_REV(self)&lt;/div&gt;&lt;div&gt; def warning_visitor()&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1770" width="230" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-69" value="&lt;div&gt;load_well_type(self)&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;ordering_REV(self)&lt;/div&gt;&lt;div&gt; def warning_visitor()&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="2400" width="230" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-70" value="def validation_wells_data(self)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1850" width="240" height="50" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-70" value="def validation_wells_data(self)&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="490" y="2480" width="240" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-71" value="&lt;div&gt;def get_well(cls, well_id):&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return Well_PA(well_name=well_id)&lt;/div&gt;&lt;div&gt; def get_many_wells(cls, wellsNames, wellProps=None):&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;wells = Well_PA_Bulk(wellsNames,&amp;nbsp; well_properties=wellProps)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def get_well_properties&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def get_well_warnings&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def get_well_intervals_info&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def search_wells&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellPropertyInterface.search_wells --&amp;gt; properties\ file properties_interface.py&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="475" y="1930" width="440" height="150" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-71" value="&lt;div&gt;def get_well(cls, well_id):&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; return Well_PA(well_name=well_id)&lt;/div&gt;&lt;div&gt; def get_many_wells(cls, wellsNames, wellProps=None):&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;wells = Well_PA_Bulk(wellsNames,&amp;nbsp; well_properties=wellProps)&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def get_well_properties&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def get_well_warnings&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def get_well_intervals_info&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;def search_wells&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellPropertyInterface.search_wells --&amp;gt; properties\ file properties_interface.py&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="2560" width="440" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-65" target="9rqynmllx5_fteItaD3S-69">
+        <mxCell id="9rqynmllx5_fteItaD3S-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-65" target="9rqynmllx5_fteItaD3S-69" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="443" y="1740" as="sourcePoint" />
-            <mxPoint x="490" y="1770" as="targetPoint" />
+            <mxPoint x="453" y="2370" as="sourcePoint" />
+            <mxPoint x="500" y="2400" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-66" target="9rqynmllx5_fteItaD3S-70">
+        <mxCell id="9rqynmllx5_fteItaD3S-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9rqynmllx5_fteItaD3S-66" target="9rqynmllx5_fteItaD3S-70" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="448" y="1810" as="sourcePoint" />
-            <mxPoint x="490" y="1780" as="targetPoint" />
+            <mxPoint x="458" y="2440" as="sourcePoint" />
+            <mxPoint x="500" y="2410" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-68" target="9rqynmllx5_fteItaD3S-71">
+        <mxCell id="9rqynmllx5_fteItaD3S-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-68" target="9rqynmllx5_fteItaD3S-71" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="446" y="1870" as="sourcePoint" />
-            <mxPoint x="450" y="2180" as="targetPoint" />
+            <mxPoint x="456" y="2500" as="sourcePoint" />
+            <mxPoint x="460" y="2810" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.399;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-47" target="9rqynmllx5_fteItaD3S-71">
+        <mxCell id="9rqynmllx5_fteItaD3S-78" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.399;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9rqynmllx5_fteItaD3S-47" target="9rqynmllx5_fteItaD3S-71" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="1410" as="sourcePoint" />
             <mxPoint x="620" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="2140" width="870" height="1090" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-79" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="2770" width="870" height="1090" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-80" value="Pasta&lt;br&gt;Logic \properties" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="300" y="2190" width="148" height="50" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-80" value="Pasta&lt;br&gt;Logic \properties" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="310" y="2820" width="148" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-81" value="Arquivo&lt;br&gt;properties_interface.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="2400" width="130" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-81" value="Arquivo&lt;br&gt;properties_interface.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="3030" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-82" value="WellPropertyManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2290" width="190" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-82" value="WellPropertyManager" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="2920" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-83" value="&lt;div&gt;init&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;self.repository = DataAccessFacade(source, repo_config) --cria o repository --&amp;gt;datasoiurces\datasource_interface.py&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def get_prop_data&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def fetch_all_props&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def search_well_by_params&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def update&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="490" y="2200" width="390" height="120" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-83" value="&lt;div&gt;init&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp;self.repository = DataAccessFacade(source, repo_config) --cria o repository --&amp;gt;datasoiurces\datasource_interface.py&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def get_prop_data&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def fetch_all_props&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def search_well_by_params&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def update&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="500" y="2830" width="390" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-81" target="9rqynmllx5_fteItaD3S-82">
+        <mxCell id="9rqynmllx5_fteItaD3S-84" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-81" target="9rqynmllx5_fteItaD3S-82" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="2410" as="sourcePoint" />
-            <mxPoint x="260" y="2360" as="targetPoint" />
+            <mxPoint x="220" y="3040" as="sourcePoint" />
+            <mxPoint x="270" y="2990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-82" target="9rqynmllx5_fteItaD3S-83">
+        <mxCell id="9rqynmllx5_fteItaD3S-85" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-82" target="9rqynmllx5_fteItaD3S-83" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="220" y="2420" as="sourcePoint" />
-            <mxPoint x="330" y="2360" as="targetPoint" />
+            <mxPoint x="230" y="3050" as="sourcePoint" />
+            <mxPoint x="340" y="2990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-87" target="9rqynmllx5_fteItaD3S-91">
+        <mxCell id="9rqynmllx5_fteItaD3S-86" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-87" target="9rqynmllx5_fteItaD3S-91" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="436" y="2420" as="targetPoint" />
+            <mxPoint x="446" y="3050" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-87" value="class WellPropertyInterface:" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="260" y="2380" width="183" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-87" value="class WellPropertyInterface:" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="270" y="3010" width="183" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-81" target="9rqynmllx5_fteItaD3S-87">
+        <mxCell id="9rqynmllx5_fteItaD3S-88" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-81" target="9rqynmllx5_fteItaD3S-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="210" y="2480" as="sourcePoint" />
-            <mxPoint x="320" y="2420" as="targetPoint" />
+            <mxPoint x="220" y="3110" as="sourcePoint" />
+            <mxPoint x="330" y="3050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-89" value="class AbstractWellProperty:" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="262" y="2550" width="198" height="40" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-89" value="class AbstractWellProperty:" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="272" y="3180" width="198" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-90" value="&lt;div&gt;class IPF(AbstractWellProperty):&lt;/div&gt;&lt;div&gt;class REV(AbstractWellProperty):&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class IRS(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class LDA(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class PROF(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class HighInclination(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class CompetenceLimit(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Cement(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Basin(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Field(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class UEP(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class InterventionDate(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class WellToolModel(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Code(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class VerticalDistanceIPF(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class WellAbandonPhases(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class PDG(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class TSR(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Nipple(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class MGL(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Packer(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Peixe(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class DHSV(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class OilRig(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class InferiorCompletation(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class COPWatertight(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class PrimaryCimentationVerification(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class ANMXOWatertight(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Incrustation(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class IsWellSurgent(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class SurgingLevel(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class MarineLife(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class ExtrasWell(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class ExtrasSSUB(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="270" y="2660" width="407" height="540" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-90" value="&lt;div&gt;class IPF(AbstractWellProperty):&lt;/div&gt;&lt;div&gt;class REV(AbstractWellProperty):&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class IRS(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class LDA(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class PROF(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class HighInclination(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class CompetenceLimit(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Cement(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Basin(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Field(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class UEP(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class InterventionDate(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class WellToolModel(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Code(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class VerticalDistanceIPF(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class WellAbandonPhases(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class PDG(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class TSR(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Nipple(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class MGL(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Packer(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Peixe(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class DHSV(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class OilRig(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class InferiorCompletation(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class COPWatertight(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class PrimaryCimentationVerification(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class ANMXOWatertight(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class Incrustation(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class IsWellSurgent(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class SurgingLevel(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class MarineLife(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class ExtrasWell(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;class ExtrasSSUB(AbstractWellProperty):&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="280" y="3290" width="407" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-91" value="&lt;div&gt;init&lt;/div&gt;&lt;div&gt;load_well_properties()--&amp;gt; properties\well_properties.py&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;ManagerInstance = WellPropertyManager&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def load_properties_data(self)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def search_wells()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellPropertyManager( **config )&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;manager.search_well_by_params( params, well_props=well_props)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;property_interface.load_properties_data()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="475" y="2330" width="405" height="140" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-91" value="&lt;div&gt;init&lt;/div&gt;&lt;div&gt;load_well_properties()--&amp;gt; properties\well_properties.py&lt;span style=&quot;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; &amp;nbsp;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;ManagerInstance = WellPropertyManager&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def load_properties_data(self)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&amp;nbsp; def search_wells()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;WellPropertyManager( **config )&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;manager.search_well_by_params( params, well_props=well_props)&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;property_interface.load_properties_data()&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="2960" width="405" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-93" value="&lt;div&gt;__init__(self, well_name, ManagerInstance=None, **kwargs):&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; self.well_name = well_name&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; self.manager = ManagerInstance&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;def load_well_properties():&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="2510" width="360" height="120" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-93" value="&lt;div&gt;__init__(self, well_name, ManagerInstance=None, **kwargs):&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; self.well_name = well_name&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; self.manager = ManagerInstance&lt;/div&gt;&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp;def load_well_properties():&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" parent="1" vertex="1">
+          <mxGeometry x="520" y="3140" width="360" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-89" target="9rqynmllx5_fteItaD3S-93">
+        <mxCell id="9rqynmllx5_fteItaD3S-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-89" target="9rqynmllx5_fteItaD3S-93" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="453" y="2360" as="sourcePoint" />
-            <mxPoint x="500" y="2390" as="targetPoint" />
+            <mxPoint x="463" y="2990" as="sourcePoint" />
+            <mxPoint x="510" y="3020" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-99" value="Arquivo&lt;br&gt;well_properties.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="2655" width="130" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-99" value="Arquivo&lt;br&gt;well_properties.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="3285" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-90" target="9rqynmllx5_fteItaD3S-90">
+        <mxCell id="9rqynmllx5_fteItaD3S-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-90" target="9rqynmllx5_fteItaD3S-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-89" target="9rqynmllx5_fteItaD3S-90">
+        <mxCell id="9rqynmllx5_fteItaD3S-102" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="9rqynmllx5_fteItaD3S-89" target="9rqynmllx5_fteItaD3S-90" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="2440" as="sourcePoint" />
-            <mxPoint x="270" y="2410" as="targetPoint" />
+            <mxPoint x="250" y="3070" as="sourcePoint" />
+            <mxPoint x="280" y="3040" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-99" target="9rqynmllx5_fteItaD3S-89">
+        <mxCell id="9rqynmllx5_fteItaD3S-103" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-99" target="9rqynmllx5_fteItaD3S-89" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="240" y="2695" as="sourcePoint" />
-            <mxPoint x="280" y="2762" as="targetPoint" />
+            <mxPoint x="250" y="3325" as="sourcePoint" />
+            <mxPoint x="290" y="3392" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="75" y="3290" width="870" height="560" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="85" y="3920" width="1135" height="1000" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-105" value="Pasta&lt;br&gt;Logic \datasources" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="310" y="3300" width="140" height="50" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-105" value="Pasta&lt;br&gt;Logic \datasources" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
+          <mxGeometry x="424" y="3930" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-106" value="Arquivo&lt;br&gt;datasource_interface.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="3390" width="165" height="60" as="geometry" />
+        <mxCell id="9rqynmllx5_fteItaD3S-106" value="Arquivo&lt;br&gt;datasource_interface.py" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="4020" width="165" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-124" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-71" target="9rqynmllx5_fteItaD3S-91">
+        <mxCell id="9rqynmllx5_fteItaD3S-124" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" source="9rqynmllx5_fteItaD3S-71" target="9rqynmllx5_fteItaD3S-91" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="470" y="2320" as="sourcePoint" />
-            <mxPoint x="500" y="2270" as="targetPoint" />
+            <mxPoint x="480" y="2950" as="sourcePoint" />
+            <mxPoint x="510" y="2900" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-83" target="9rqynmllx5_fteItaD3S-106">
+        <mxCell id="9rqynmllx5_fteItaD3S-125" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="9rqynmllx5_fteItaD3S-83" target="9rqynmllx5_fteItaD3S-106" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="485" y="2410" as="targetPoint" />
+            <mxPoint x="495" y="3040" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="750" y="3420" />
+              <mxPoint x="760" y="3890" />
+              <mxPoint x="181" y="3890" />
             </Array>
-            <mxPoint x="453" y="2410" as="sourcePoint" />
+            <mxPoint x="463" y="3040" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-17" target="9rqynmllx5_fteItaD3S-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="980" as="sourcePoint" />
+            <mxPoint x="350" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-17" target="9rqynmllx5_fteItaD3S-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="678" as="sourcePoint" />
+            <mxPoint x="350" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-17" target="9rqynmllx5_fteItaD3S-40">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="678" as="sourcePoint" />
+            <mxPoint x="347" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-4" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.967;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-17" target="9rqynmllx5_fteItaD3S-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="304" y="678" as="sourcePoint" />
+            <mxPoint x="350" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-17" target="9rqynmllx5_fteItaD3S-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="670" as="sourcePoint" />
+            <mxPoint x="340" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-6" value="Arquivo&lt;br&gt;Serializers.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-8" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;rest_framework import serializers&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1550" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-9" value="&lt;div&gt;class UserSerializer(serializers.ModelSerializer)&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;class FloatListField(serializers.ListField):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class IntervalFieldList(serializers.ListField):&lt;/div&gt;&lt;div&gt;class IntervalTypeSerializer(serializers.Serializer):&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class WellPropertiesSerializer(IntervalTypeSerializer):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;class WellSerializer(serializers.Serializer):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def to_representation(self, instance):&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;class WarningSerializer(serializers.Serializer):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class AbandonEvaluationSerializer(serializers.Serializer):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_resume(self, obj)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="1570" width="337.5" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-6" target="OHiep4hpYep6FAK_2Nnr-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="446" y="1060" as="sourcePoint" />
+            <mxPoint x="520" y="1180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-11" value="class IntervalField(serializers.Field):" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="306.5" y="1810" width="303.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-12" value="class IntervalsSerializers(serializers.Serializer):" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="1880" width="281.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-13" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;class AbandonSerializer(serializers.Serializer):&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="298.5" y="1970" width="301.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-14" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;class PieChartSerializer(serializers.Serializer):&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;class BarChartSerializer(serializers.Serializer):&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;class TimelineSerializer(serializers.Serializer):&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;classBasicPaginator(drf_link_header_pagination.LinkHeaderPagination):&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="2050" width="397" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-15" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;def to_representation(self, value)&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def to_internal_value(self, data):&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="773" y="1810" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-11" target="OHiep4hpYep6FAK_2Nnr-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="1940" as="sourcePoint" />
+            <mxPoint x="315" y="1710" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-18" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;def to_representation(self, instance):&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="768" y="1880" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OHiep4hpYep6FAK_2Nnr-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="605" y="1900" as="sourcePoint" />
+            <mxPoint x="310" y="1780" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-20" value="&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;def get_warnings(self, obj):&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&lt;span style=&quot;border-color: var(--border-color);&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_validIntervals(self, obj):&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="763" y="1960" width="187" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OHiep4hpYep6FAK_2Nnr-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="1980" as="sourcePoint" />
+            <mxPoint x="305" y="1860" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="860" as="sourcePoint" />
+            <mxPoint x="490" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.422;entryY=0.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-47" target="OHiep4hpYep6FAK_2Nnr-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="450" y="1002" />
+              <mxPoint x="450" y="1571" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-24" value="Arquivo&lt;br&gt;repositories.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="4420" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-25" value="Arquivo&lt;br&gt;pitia_model.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="4830" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-26" value="&lt;br&gt;class AbandonDjangoRepository(DjangoRepository)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352" y="4695" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-27" value="&lt;div&gt;&amp;nbsp; &amp;nbsp;self.well_dj_obj = ptml.WellsData em pitia_model.py&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; self.abandon_codes = ptml.AbandonAlternativesCodes&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; self.abandon_dj_obj = ptml.WellsAbandonsResultsData&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="773" y="4695" width="417" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.302;exitY=1.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-27" target="OHiep4hpYep6FAK_2Nnr-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="4060" as="sourcePoint" />
+            <mxPoint x="930" y="4010" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-29" value="class DataAccessFacade:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="4010" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-30" value="DataSourceInterface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="4130" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-31" value="Data_Access_Interface" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="342" y="4240" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-33" value="&lt;div&gt;&amp;nbsp;maps = {&#39;GS&#39;: GSRepository, &#39;FL&#39;: FileRepository,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;FK&#39;: FakeRepository, &#39;DJ&#39;: DjangoRepository,&amp;nbsp;&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &#39;DJSc&#39;: ScopesDjangoRepository&lt;/div&gt;&lt;div&gt;&lt;div&gt;def get(self, well_name: str | int,&lt;span style=&quot;background-color: initial;&quot;&gt;&amp;nbsp; well_prop: List[str] | None = None):&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def update(self, well_name, well_prop):&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def listing(self, well_names: List[str], well_props : List[str]):&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def overview_search(self, params:dict[str,str], WellProperties:List[str]=None):&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="3940" width="430" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-34" value="data = Data_Access_Interface(source=os.environ.get(&#39;DS_METHOD&#39;, &#39;gs&#39;))" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="4130" width="450" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-35" value="class AbstractRepository(ABC):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="4350" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-36" value="class GSRepository(AbstractRepository):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="4440" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-37" value="class DjangoRepository(AbstractRepository):" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="359.5" y="4530" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-38" value="class ScopesDjangoRepository(DjangoRepository)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="356" y="4610" width="331" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
