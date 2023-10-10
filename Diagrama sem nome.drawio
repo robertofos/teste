@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T14:18:15.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KFa26FgPfkoyT-xp-S7H" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T16:25:07.035Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="YiF-bvq7yqFxONntPmfh" version="22.0.4" type="github">
   <diagram name="Página-1" id="M4AG1U2UbQ92fK8j8NIL">
-    <mxGraphModel dx="2123" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2206" dy="2335" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,12 +14,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="9rqynmllx5_fteItaD3S-2" value="Pasta &lt;br&gt;Pitia_BackEnd" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="100" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-4" value="Pasta&lt;br&gt;Pitia_logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="530" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="9rqynmllx5_fteItaD3S-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="9rqynmllx5_fteItaD3S-7" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1" source="9rqynmllx5_fteItaD3S-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="448" y="230" as="sourcePoint" />
             <mxPoint x="530" y="230" as="targetPoint" />
@@ -32,7 +29,7 @@
           <mxGeometry x="330" y="-10" width="96" height="50" as="geometry" />
         </mxCell>
         <mxCell id="9rqynmllx5_fteItaD3S-12" value="Pasta &lt;br&gt;Pitia" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="286.5" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9rqynmllx5_fteItaD3S-15" value="Pasta&lt;br&gt;Pitia BackEnd" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="340" y="400" width="96" height="50" as="geometry" />
@@ -372,7 +369,7 @@
         <mxCell id="OHiep4hpYep6FAK_2Nnr-6" value="Arquivo&lt;br&gt;Serializers.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OHiep4hpYep6FAK_2Nnr-8" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;rest_framework import serializers&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-8" value="&lt;div style=&quot;color: rgb(212, 212, 212); background-color: rgb(30, 30, 30); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;rest_framework import serializers django&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="1550" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OHiep4hpYep6FAK_2Nnr-9" value="&lt;div&gt;class UserSerializer(serializers.ModelSerializer)&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;class FloatListField(serializers.ListField):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class IntervalFieldList(serializers.ListField):&lt;/div&gt;&lt;div&gt;class IntervalTypeSerializer(serializers.Serializer):&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class WellPropertiesSerializer(IntervalTypeSerializer):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;class WellSerializer(serializers.Serializer):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def to_representation(self, instance):&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;class WarningSerializer(serializers.Serializer):&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;class AbandonEvaluationSerializer(serializers.Serializer):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;def get_resume(self, obj)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
@@ -591,6 +588,16 @@
             <mxPoint x="980" y="1310" as="sourcePoint" />
             <mxPoint x="1270" y="1710" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-12" target="9rqynmllx5_fteItaD3S-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="230" as="sourcePoint" />
+            <mxPoint x="530" y="230" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9rqynmllx5_fteItaD3S-4" value="Pasta&lt;br&gt;Pitia_logic" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
