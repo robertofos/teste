@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-10T13:42:56.032Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="d-IocdnlKqPhO6oBrhC8" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-10T14:18:15.763Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="KFa26FgPfkoyT-xp-S7H" version="22.0.4" type="github">
   <diagram name="Página-1" id="M4AG1U2UbQ92fK8j8NIL">
-    <mxGraphModel dx="1624" dy="2036" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2123" dy="2303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -315,7 +315,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9rqynmllx5_fteItaD3S-104" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="85" y="3920" width="1135" height="1000" as="geometry" />
+          <mxGeometry x="85" y="3920" width="1135" height="1240" as="geometry" />
         </mxCell>
         <mxCell id="9rqynmllx5_fteItaD3S-105" value="Pasta&lt;br&gt;Logic \datasources" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="424" y="3930" width="140" height="50" as="geometry" />
@@ -485,6 +485,112 @@
         </mxCell>
         <mxCell id="OHiep4hpYep6FAK_2Nnr-38" value="class ScopesDjangoRepository(DjangoRepository)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="356" y="4610" width="331" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-39" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-106" target="OHiep4hpYep6FAK_2Nnr-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="4150" as="sourcePoint" />
+            <mxPoint x="930" y="4100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-40" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-106" target="OHiep4hpYep6FAK_2Nnr-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="4150" as="sourcePoint" />
+            <mxPoint x="930" y="4100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-41" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-106" target="OHiep4hpYep6FAK_2Nnr-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="311" y="4090" as="sourcePoint" />
+            <mxPoint x="442" y="4140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-24" target="OHiep4hpYep6FAK_2Nnr-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="249" y="4090" as="sourcePoint" />
+            <mxPoint x="352" y="4280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-24" target="OHiep4hpYep6FAK_2Nnr-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="323" y="4440" as="sourcePoint" />
+            <mxPoint x="409" y="4420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-24" target="OHiep4hpYep6FAK_2Nnr-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="333" y="4450" as="sourcePoint" />
+            <mxPoint x="419" y="4430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-45" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-24" target="OHiep4hpYep6FAK_2Nnr-38">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="281" y="4490" as="sourcePoint" />
+            <mxPoint x="440" y="4540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-46" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.372;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-24" target="OHiep4hpYep6FAK_2Nnr-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="291" y="4500" as="sourcePoint" />
+            <mxPoint x="450" y="4550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-26" target="OHiep4hpYep6FAK_2Nnr-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="301" y="4510" as="sourcePoint" />
+            <mxPoint x="460" y="4560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-48" value="Contem o mapeamento entre a tabela do banco de dados e as clasess" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="4880" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-49" value="django.db import models" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="4800" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-50" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="2200" width="860" height="550" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-51" value="Pasta&lt;br&gt;Logic \Abandon" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1252" y="2210" width="118" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-52" target="OHiep4hpYep6FAK_2Nnr-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-52" value="Arquivo&lt;br&gt;abandon_interface.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020.5" y="2330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-53" value="class AbandonInterface()" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="1170" y="2338" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-54" value="def get_best_alternative2(cls, WellInstance):&lt;br&gt;&amp;nbsp;def load_best_alternatives(cls, WellInstances ):&lt;br&gt;def execute_abandon_config( cls, WellInstance, config: dict=None):&lt;br&gt;def update_best_alternatives_results(cls, WellInstancesDict, repo=None ):&lt;br&gt;def get_or_update_alternatives(cls, WellInstances):&lt;br&gt;&lt;div&gt;def evaluate_abandons(cls, WellInstance, ignore_codes: Dict[ int, bool] ):&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def get_best_alternative(cls, WellInstance):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def get_best_scope_class(cls, WellInstance):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def get_escopo_tipo(cls, BestAlternative):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def get_alternative_scopes_steps(cls, AbandonAlternative):&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def get_scope_using_result_dict(cls, ResultDict):&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;def get_all_abandons_evaluation(cls, WellInstance):&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingTop=0;" vertex="1" parent="1">
+          <mxGeometry x="1390" y="2255" width="400" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-56" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="OHiep4hpYep6FAK_2Nnr-53" target="OHiep4hpYep6FAK_2Nnr-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1120" y="2440" as="sourcePoint" />
+            <mxPoint x="1230" y="2380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="OHiep4hpYep6FAK_2Nnr-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1368.0000000000005" y="2900" as="sourcePoint" />
+            <mxPoint x="1360" y="2820" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-70" value="Arquivo&lt;br&gt;abandon_alternative.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010.5" y="2460" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-71" value="Arquivo&lt;br&gt;abandon_properties.py" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1010.5" y="2640" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-75" value="contem toda a logica de alternativa de abandono" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1027.5" y="2510" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OHiep4hpYep6FAK_2Nnr-76" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9rqynmllx5_fteItaD3S-49" target="OHiep4hpYep6FAK_2Nnr-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="1310" as="sourcePoint" />
+            <mxPoint x="1270" y="1710" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
